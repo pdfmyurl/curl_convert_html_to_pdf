@@ -1,4 +1,3 @@
-# curl_convert_html_to_pdf
 # Convert HTML to PDF with cURL on the Linux command line
 
 The examples below use our [HTML to PDF API](https://pdfmyurl.com/html-to-pdf-api) to create PDFs from HTML or URLs. Many more options can be used to influence the layout of the PDFs as well as the way the conversion takes place.
