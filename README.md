@@ -25,5 +25,5 @@ This example will convert raw HTML from a file named "html.html" to a PDF with t
         	-H "Content-Type: application/x-www-form-urlencoded" \
         	-X POST https://pdfmyurl.com/api
 
-To use this example just copy/paste it and make sure you have a file named "html.html" the current directory that contains the HTML.
+To use this example just copy/paste it and make sure you have a file named "html.html" in the current directory that contains the HTML.
 
